@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on ... Java || Kotlin
 - 🤔 I’m looking for help with ... Learning Guides
 - 💬 Ask me about ... How's my day
-- 📫 How to reach me: ... [Twitter](https://twitter.com/JshMDevEra)
+- 📫 How to reach me: ... [Twitter](http://twitter.com/JshMDevEra)
 - ⚡ Fun fact: ... I know nothing
 -->
